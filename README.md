@@ -1,10 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+SaladNews24.com
 
-Things you may want to cover:
+For all the latest salad news
 
+# Boilerplate
 * Ruby version
 
 * System dependencies
